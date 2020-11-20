@@ -2,11 +2,11 @@
 
 *- Leo Buscaglia*
 
-AWS Certified (Solutions Architect Associate) DevOps Engineer
+AWS Certified (Solutions Architect Associate) **DevOps Engineer**
 
-* BA International Affairs George Washington University '11
-* MA International Development American University '14
-* MBA Goldey-Beacom College '18
-* Master of Management Goldey-Beacom College '19
+* BA International Affairs \ George Washington University '11
+* MA International Development \ American University '14
+* MBA \ Goldey-Beacom College '18
+* Master of Management \ Goldey-Beacom College '19
 
 refayathaque@outlook.com

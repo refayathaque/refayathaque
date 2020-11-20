@@ -4,4 +4,4 @@
 
 AWS Certified (Solutions Architect Associate) DevOps Engineer
 
-Contact: refayathaque@outlook.com
+refayathaque@outlook.com

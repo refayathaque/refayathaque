@@ -6,7 +6,8 @@
 
 🔭 Working on Terraform, AWS and GitLab CI/CD  
 🌱 Learning Vue3  
-📖 Reading Jeff Goodell's "The Water Will Come"  
+
+📖 Jeff Goodell's "The Water Will Come"  
 
 🎓 BA International Affairs \ George Washington University '11  
 🎓 MA International Development \ American University '14  

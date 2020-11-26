@@ -9,4 +9,7 @@ AWS Certified (Solutions Architect Associate) **DevOps Engineer**
 * MBA \ Goldey-Beacom College '18
 * Master of Management \ Goldey-Beacom College '19
 
+🔭 Working on Terraform
+🌱 Learning Vue3
+
 refayathaque@outlook.com

@@ -4,7 +4,7 @@
 
 👨‍💻 AWS Certified (Solutions Architect Associate) **DevOps Engineer**
 
-`myLifeRn = [ Terraform, AWS, GitLab CI/CD ]`
+`myLifeRn = [ "Terraform", "AWS", "GitLab CI/CD" ]`
 
 🔭 Working on `myLifeRn`  
 🌱 Learning `myLifeRn`  

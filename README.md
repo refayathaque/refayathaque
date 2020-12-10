@@ -4,10 +4,8 @@
 
 👨‍💻 AWS Certified (Solutions Architect Associate) **DevOps Engineer**
 
-`const myLifeRn = [ "Terraform", "AWS", "GitLab CI/CD" ]`
-
-🔭 Working on `myLifeRn`  
-🌱 Learning `myLifeRn`  
+🔭 Working on `Terraform`, `AWS`, `GitLab CI/CD`  
+🌱 Learning `Terraform`, `AWS`, `GitLab CI/CD`  
 📖 Reading Jeff Goodell's "The Water Will Come"  
 
 🎓 BA International Affairs \ George Washington University '11  

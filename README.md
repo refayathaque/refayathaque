@@ -4,8 +4,8 @@
 
 👨‍💻 AWS Certified (Solutions Architect Associate) **DevOps Engineer**
 
-🔭 Working on `Terraform`, `AWS`, `GitLab CI/CD`  
-🌱 Learning `Terraform`, `AWS`, `GitLab CI/CD`  
+🔭 Working on `Terraform` & `AWS`  
+🌱 Learning `Terraform` & `AWS`  
 📖 Reading Jeff Goodell's "The Water Will Come"  
 
 🎓 BA International Affairs \ George Washington University '11  

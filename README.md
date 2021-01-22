@@ -6,7 +6,7 @@
 
 🔭 Working on `Terraform` & `AWS`  
 🌱 Learning `Terraform` & `AWS`  
-📖 Reading Hope Jahren's "The Story of More"
+📖 Reading Hope Jahren's "The Story of More"  
 🎮 Playing "Ghost of Tsushima"
 
 🎓 BA International Affairs \ George Washington University '11  

@@ -6,7 +6,8 @@
 
 🔭 Working on `Terraform` & `AWS`  
 🌱 Learning `Terraform` & `AWS`  
-📖 Reading Jeff Goodell's "The Water Will Come"  
+📖 Reading Hope Jahren's "The Story of More"
+🎮 Playing "Ghost of Tsushima"
 
 🎓 BA International Affairs \ George Washington University '11  
 🎓 MA International Development \ American University '14  

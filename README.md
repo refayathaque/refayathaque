@@ -2,7 +2,7 @@
 
 *- Leo Buscaglia*
 
-👨‍💻 AWS Certified (Solutions Architect Associate) **DevOps Engineer**
+👨‍💻 [AWS (Solutions Architect Associate)](https://www.youracclaim.com/badges/51dba704-285d-49c2-9798-ac27681c188f/public_url) & [HashiCorp (Terraform)](https://www.youracclaim.com/badges/46a7a049-d49a-4b2f-997d-a23f97d4353b/public_url) certified **Full Stack / DevOps Engineer**
 
 🔭 Working on `Terraform` & `AWS`  
 🌱 Learning `Terraform` & `AWS`  

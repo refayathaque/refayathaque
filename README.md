@@ -6,7 +6,7 @@
 
 🔭 Working on `Azure-104` & `Jenkins`  
 🌱 Learning `Azure-104`, `Jenkins` & `Vue 3`  
-📖 Reading Hope Jahren's "The Story of More"  
+📖 Reading Bill Gates' "How to Avoid a Climate Disaster"  
 🎮 Playing "Ghost of Tsushima"
 
 🎓 BA International Affairs \ George Washington University '11  

@@ -2,7 +2,7 @@
 
 *- Leo Buscaglia*
 
-👨‍💻 [AWS (Solutions Architect Associate)](https://www.youracclaim.com/badges/51dba704-285d-49c2-9798-ac27681c188f/public_url) & [HashiCorp (Terraform)](https://www.youracclaim.com/badges/46a7a049-d49a-4b2f-997d-a23f97d4353b/public_url) certified **Full Stack / DevOps Engineer**
+👨‍💻 [AWS (Solutions Architect Associate)](https://www.youracclaim.com/badges/51dba704-285d-49c2-9798-ac27681c188f/public_url), [Azure (Administrator Associate)](https://www.youracclaim.com/badges/5907ea9a-76cb-4e97-b0bc-035e52ad6715/public_url) & [HashiCorp (Terraform)](https://www.youracclaim.com/badges/46a7a049-d49a-4b2f-997d-a23f97d4353b/public_url) certified **Full Stack / DevOps Engineer**
 
 🔭 Working on `Azure-104` & `Jenkins`  
 🌱 Learning `Azure-104`, `Jenkins` & `Vue 3`  

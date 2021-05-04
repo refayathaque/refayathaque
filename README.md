@@ -6,8 +6,7 @@
 
 🔭 Working with `AWS` and `Vue 3`  
 🌱 Learning `Azure` and `Vue 3`  
-📖 Reading Elizabeth Kolbert's "Under a White Sky"  
-🎮 Playing "Ghost of Tsushima"
+📖 Reading Kevin Roose's "Futureproof: 9 Rules for Humans in the Age of Automation"  
 
 🎓 BA International Affairs \ George Washington University '11  
 🎓 MA International Development \ American University '14  

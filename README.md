@@ -6,7 +6,7 @@
 
 🔭 Working with `Vue 3` and  `AWS`   
 🌱 Learning `Machine Learning with JavaScript`, `Vue 3` and `AWS`  
-📖 Reading Kevin Roose's "Futureproof: 9 Rules for Humans in the Age of Automation"  
+📖 Reading John Brooke's "Business Adventures: Twelve Classic Tales from the World of Wall Street"  
 
 🎓 BA International Affairs \ George Washington University '11  
 🎓 MA International Development \ American University '14  

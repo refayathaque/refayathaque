@@ -6,7 +6,7 @@
 
 🔭 Working with `Java` and `GCP`   
 🌱 Learning `Java`, `GCP` and `React`  
-📖 Reading Cal Newport's "Deep Work"  
+📖 Reading Cal Newport's "Digital Minimalism"  
 
 🎓 BA International Affairs \ George Washington University '11  
 🎓 MA International Development \ American University '14  

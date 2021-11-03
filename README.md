@@ -7,8 +7,8 @@
 Full Stack / DevOps / Cloud **Engineer**
 
 🔭 Working with `Java` and `GCP`   
-🌱 Learning `Java`, `GCP` and `React`  
-📖 Reading Paul Jarvis' "Company of One"  
+🌱 Learning `Java` and `GCP`  
+📖 Reading Adam Jones and Adam Ashton's "the shit they never taught you."  
 
 🎓 BA International Affairs \ George Washington University '11  
 🎓 MA International Development \ American University '14  

@@ -6,8 +6,8 @@
 
 Full Stack / DevOps / Cloud **Engineer**
 
-🔭 Working with `Java` and `GCP`   
-🌱 Learning `Java` and `GCP`  
+🔭 Working with `Terraform` and `GCP`   
+🌱 Learning `AWS`
 📖 Reading Adam Jones and Adam Ashton's "the shit they never taught you."  
 
 🎓 BA International Affairs \ George Washington University '11  

@@ -7,7 +7,7 @@
 Full Stack / DevOps / Cloud **Engineer**
 
 🔭 Working with `Terraform` and `GCP`  
-🌱 Learning `AWS`  
+🌱 Studying to re-certify `AWS` Solutions Architect Associate (expires 2/22)  
 📖 Reading Adam Jones and Adam Ashton's "the shit they never taught you."  
 
 🎓 BA International Affairs \ George Washington University '11  

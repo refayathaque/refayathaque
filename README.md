@@ -4,7 +4,7 @@
 
 👨‍💻 [AWS (Solutions Architect Associate)](https://www.youracclaim.com/badges/51dba704-285d-49c2-9798-ac27681c188f/public_url), [Azure (Administrator Associate)](https://www.youracclaim.com/badges/5907ea9a-76cb-4e97-b0bc-035e52ad6715/public_url) & [HashiCorp (Terraform)](https://www.youracclaim.com/badges/46a7a049-d49a-4b2f-997d-a23f97d4353b/public_url) certified 
 
-Full Stack / DevOps / Cloud **Engineer**
+DevOps / Cloud **Engineer**
 
 🔭 Working with `Terraform` and `GCP`  
 🌱 Studying to re-certify `AWS` Solutions Architect Associate (expires 2/22)  
@@ -15,4 +15,4 @@ Full Stack / DevOps / Cloud **Engineer**
 🎓 MBA \ Goldey-Beacom College '18  
 🎓 Master of Management \ Goldey-Beacom College '19  
 
-refayathaque@outlook.com
+hello@refayathaque.codes

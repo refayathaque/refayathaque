@@ -6,9 +6,9 @@
 
 DevOps / Cloud **Engineer**
 
-🔭 Working with `Terraform` and `GCP`  
-🌱 Studying to re-certify `AWS` Solutions Architect Associate (expires 2/22)  
-📖 Reading Adam Jones and Adam Ashton's "the shit they never taught you."  
+🔭 Working with `Terraform`, `GCP` & `React`  
+🌱 Learning `Terraform`, `GCP` & `React`  
+📖 Reading Elizabeth Kolbert's "The Sixth Extinction: An Unnatural History"  
 
 🎓 BA International Affairs \ George Washington University '11  
 🎓 MA International Development \ American University '14  

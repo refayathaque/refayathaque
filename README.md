@@ -6,8 +6,8 @@
 
 DevOps / Cloud **Engineer**
 
-🔭 Working with `Terraform`, `GCP` & `React`  
-🌱 Learning `Terraform`, `GCP` & `React`  
+🔭 Working with `Terraform`, `Google Cloud` & `React`  
+🌱 Learning `Terraform`, `Google Cloud` & `React`  
 📖 Reading Elizabeth Kolbert's "The Sixth Extinction: An Unnatural History"  
 
 🎓 BA International Affairs \ George Washington University '11  

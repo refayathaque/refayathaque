@@ -7,7 +7,7 @@
 DevOps / Cloud **Engineer**
 
 🔭 Working with `Terraform` and `Google Cloud`  
-🌱 Learning `Terraform`, `AWS` and `Google Cloud`  
+🌱 Learning `Terraform`, `AWS`, `Docker`, `Kubernetes` and `Google Cloud`  
 📖 Reading Cal Newport's "Deep work" again  
 
 🎓 BA International Affairs \ George Washington University '11  

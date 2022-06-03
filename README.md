@@ -2,9 +2,9 @@
 
 *- Leo Buscaglia*
 
-👨‍💻 [AWS (Solutions Architect Associate)](https://www.youracclaim.com/badges/51dba704-285d-49c2-9798-ac27681c188f/public_url), [Azure (Administrator Associate)](https://www.youracclaim.com/badges/5907ea9a-76cb-4e97-b0bc-035e52ad6715/public_url) and [HashiCorp (Terraform)](https://www.youracclaim.com/badges/46a7a049-d49a-4b2f-997d-a23f97d4353b/public_url) certified 
+👨‍💻 [AWS (Solutions Architect Associate)](https://www.youracclaim.com/badges/51dba704-285d-49c2-9798-ac27681c188f/public_url) (expired), [Azure (Administrator Associate)](https://www.youracclaim.com/badges/5907ea9a-76cb-4e97-b0bc-035e52ad6715/public_url) and [HashiCorp (Terraform)](https://www.youracclaim.com/badges/46a7a049-d49a-4b2f-997d-a23f97d4353b/public_url) certified 
 
-🏢 Lead AWS DevOps **Engineer** at ECS
+🏢 **Lead AWS DevOps Engineer at ECS**
 
 🔭 Learning and building with `React`, `Docker`, `Kubernetes`, `Terraform` and `AWS`  
 📖 Reading Bill Gates' "How to Prevent the Next Pandemic"  

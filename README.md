@@ -6,7 +6,6 @@
 
 🏢 **Lead AWS DevOps Engineer w/ ECS**
 
-🔭 Learning and building w/ `React`, `Docker`, `Kubernetes`, `Terraform` and `AWS`  
 📖 Reading Bill Gates' "How to Prevent the Next Pandemic"  
 
 🎓 BA International Affairs \ George Washington University '11  
@@ -14,4 +13,4 @@
 🎓 MBA \ Goldey-Beacom College '18  
 🎓 Master of Management \ Goldey-Beacom College '19  
 
-🏠 Cleveland Park, Washington DC
+🏠 Woodley Park, Washington DC
